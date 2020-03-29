@@ -1,0 +1,2 @@
+debian/bin/crosscoind usr/bin
+src/crosscoind usr/lib/crosscoin

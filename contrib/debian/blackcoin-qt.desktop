@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CrossCoin
+Comment=CrossCoin P2P Cryptocurrency
+Comment[fr]=CrossCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CrossCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/crosscoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/crosscoin;
+Categories=Office;
