@@ -1,2 +1,2 @@
 # CrossCoin
-Cross Coin - Secure Descentralization Coin
+Cross Coin - Secure Decentralization Coin
